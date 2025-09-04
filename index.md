@@ -6,3 +6,9 @@
 const text = "Hello World!";
 console.log(text);
 ```
+
+- [ ] Get up early
+- [ ] Eat breakfast
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
